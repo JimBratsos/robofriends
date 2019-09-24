@@ -1,6 +1,11 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# robofriends
 
-## Available Scripts
+## Description 
+
+A fun app built using HTML5, CSS, JS and React. It grabs the contact info from a page online, and using random texts, generates a contact list of different unique robots. Using React, the whole front-end was build, and a search bar that pops up the robot the user searches by name/surname. Fully responsive.
+
+
+## Scripting instructions
 
 In the project directory, you can run:
 
@@ -66,4 +71,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-# robofriends
+
