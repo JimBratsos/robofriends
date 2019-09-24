@@ -2,7 +2,7 @@
 
 ## Description 
 
-A fun app built using HTML5, CSS, JS and React. It grabs the contact info from a page online, and using random texts, generates a contact list of different unique robots. Using React, the whole front-end was build, and a search bar that pops up the robot the user searches by name/surname. Fully responsive.
+A fun website built using HTML5, CSS, JS and React. It grabs the contact info from a page online, and using random texts, generates a contact list of different unique robots. Using React, the whole front-end was build, and a search bar that pops up the robot the user searches by name/surname. Fully responsive.
 
 
 ## Scripting instructions
